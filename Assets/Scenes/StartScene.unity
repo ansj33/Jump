@@ -249,10 +249,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uC554\uBCBD\uB4F1\uBC18 \uD3F0\uD2B8\uCC3E\uAE30"
+  m_text: Infinity jump
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 591e38aed506fa04fbc9c4d36c4fa1f3, type: 2}
+  m_sharedMaterial: {fileID: 7418677836135205759, guid: 591e38aed506fa04fbc9c4d36c4fa1f3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
